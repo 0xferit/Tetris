@@ -1,2 +1,2 @@
 # Quadrop
-A simple Quadrop(Tetris) game implemented with Observer Pattern and MVC in Java
+A simple Tetris game implemented with Observer Pattern and MVC in Java
